@@ -25,5 +25,7 @@ Linux는 주로 데이터 센터 등에 위치한 서버 컴퓨터의 운영체�
 2) ls: 현재 디렉터리나 지정한 디렉터리 내에 있는 파일과 하위 폴더의 목록을 보여준다.
 3) cd: 사용자의 현재 작업 디렉터리를 다른 곳으로 이동시킬 때 사용한다
 4) mkdir: 새로운 디렉터리(폴더)를 생성한다.
-cat: 텍스트 파일의 내용을 터미널 화면에 출력한다.
+5) cat: 텍스트 파일의 내용을 터미널 화면에 출력한다.
  
+ <img width="642" height="317" alt="image" src="https://github.com/user-attachments/assets/860afda2-995c-47ec-ba0f-1fad0d55a97b" />
+
