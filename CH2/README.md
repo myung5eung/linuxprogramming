@@ -15,6 +15,7 @@
 9) cat: 파일의 내용을 터미널 화면에 텍스트로 출력한다.
 10) man: 특정 명령어의 사용법 및 옵션을 설명하는 매뉴얼을 출력한다.
 <img width="1052" height="697" alt="image" src="https://github.com/user-attachments/assets/bba6da09-45b5-43c0-92af-33a20bfe5104" />
+<img width="806" height="175" alt="image" src="https://github.com/user-attachments/assets/589f53f3-7384-4317-b885-8b89689edfdf" />
 
 
 ### 셸과 커널을 구분하여 자세히 설명하시오.
