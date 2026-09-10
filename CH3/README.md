@@ -10,3 +10,8 @@
 | 화면 잠금 및 해제 | Ctrl+s / Ctrl+q |
 | 실행종료 | Ctrl+c |
 | 화면삭제 | Ctrl+l |
+
+# 3-2 실습과제
+<img width="1025" height="741" alt="image" src="https://github.com/user-attachments/assets/f090d304-6c2f-4169-9042-c403a31edd08" />
+<img width="926" height="747" alt="image" src="https://github.com/user-attachments/assets/7998dc44-cd6e-4406-acba-72b410bcb6c0" />
+<img width="916" height="750" alt="image" src="https://github.com/user-attachments/assets/a7968c12-5a5d-4eac-8df6-f3104dd9037c" />
