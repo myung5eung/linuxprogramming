@@ -4,11 +4,14 @@
 - -l: 파일의 상세 정보 출력
 - -F:파일의 종류를 의미하는 기호를 추가해 출력
 - --help: 명령어 매뉴얼을 출력
-  
+  <img width="905" height="547" alt="image" src="https://github.com/user-attachments/assets/0f3f0464-f058-4b35-8a39-a52d70910686" />
+
 ### 경로확장 문자 *, ?의 의미를 설명하고 각각 실행예를 첨부하시오.
 와일드 카드 확장자라고 불리며
 - *: 임의의 문자열을 의미
 - ?: 임의의 한 문자를 의미
+<img width="501" height="157" alt="image" src="https://github.com/user-attachments/assets/897d8b3c-c075-4020-90ab-373d8f8c0c20" />
 
 ### 다음처럼 작업 디렉토리에 먼저 빈파일들을 생성하고 실습하시오.
 - touch는 비어 있는 텍스트 파일을 생성하는 명령어임
+<img width="827" height="292" alt="image" src="https://github.com/user-attachments/assets/bb4f0d74-3bdf-4f0c-bbd3-636d92371be0" />
