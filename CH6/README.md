@@ -16,3 +16,4 @@ mkdir을 man명령어를 이용해 확인
 <img width="1457" height="677" alt="image" src="https://github.com/user-attachments/assets/21ac5215-55ef-4503-98b9-5cee31fa1ad0" />
 
 - cd, ls, cp, rm, ifconfig 명령어의 실행파일이 존재하는 경로를 조사하라.
+![Uploading image.png…]()
