@@ -16,4 +16,6 @@ mkdir을 man명령어를 이용해 확인
 <img width="1457" height="677" alt="image" src="https://github.com/user-attachments/assets/21ac5215-55ef-4503-98b9-5cee31fa1ad0" />
 
 - cd, ls, cp, rm, ifconfig 명령어의 실행파일이 존재하는 경로를 조사하라.
-![Uploading image.png…]()
+cd는 셸 내장 명령어이기 때문에 실행 시 경로가 출력되지 않음
+<img width="537" height="160" alt="image" src="https://github.com/user-attachments/assets/94298194-442c-4690-ae7e-61fa16521370" />
+<img width="921" height="480" alt="image" src="https://github.com/user-attachments/assets/c221979b-1584-4090-bc02-321197085b88" />
