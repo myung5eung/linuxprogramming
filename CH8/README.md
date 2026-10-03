@@ -37,5 +37,13 @@ source test.sh
 ```
 
 ## .bashrc 파일에 환경변수 MYVER을 선언하고 값을 ubuntu 26.04으로 설정하는 코드를 추가하고 .bashrc 파일을 다시 실행(source)하라. 그리고 환경변수 MYVER의 값이 잘 설정되었는지 명령어(echo)로 확인하라
+<img width="387" height="130" alt="image" src="https://github.com/user-attachments/assets/2e6c0da9-a0ca-49c2-8a58-73495b2836cd" />
+
+<img width="437" height="82" alt="image" src="https://github.com/user-attachments/assets/e8eb3642-93e6-4432-ba3b-cf163f335ada" />
 
 ## 환경변수에 경로를 추가할 때 $ PATH=‘$PATH:~/bin’ 처럼 작성하면 어떻게 되는지 설명하라
+작은따옴표 안의 `$PATH`가 기존 PATH 값으로 치환되지 않고 문자 그대로 저장되어 실제 기존 경로가 문자열이 들어가게 된다. 이렇게 사용하면 명령어 검색 경로가 사라지기 때문에 일반 명령어를 찾지 못하는 문제가 생길 수 있어 기존 PATH 값에 새로운 경로를 추가하려면 큰따옴표를 사용하여 다음과 같이 작성한다.
+
+```bash
+PATH="$PATH:~/bin"
+```
