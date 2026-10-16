@@ -1,8 +1,10 @@
 #include "mylib.h"
+
 int main()
 {
     int a = input();
-    double y = cal(a);
-    print(y);
+    int b = input();
+    int big = bigger(a, b);
+    print(big);
     return 0;
 }
