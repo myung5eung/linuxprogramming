@@ -9,12 +9,11 @@
 - 실행: 생성된 실행파일을 메모리에 불러와 실제로 프로그램을 실행하는 단계이다.
 
 프로젝트 빌드 후 소스파일(c), 목적파일(obj), 실행파일(exe)의 위치를 찾아보라.
+<img width="842" height="407" alt="image" src="https://github.com/user-attachments/assets/9d2f92e6-3e0b-4adc-9912-602e5bf30db1" />
+<img width="825" height="465" alt="image" src="https://github.com/user-attachments/assets/3b14e5e0-c0bf-4e39-b8f7-0ed8bea27fe0" />
 
-- 소스파일: `.c`
-- 목적파일: `.obj`
-- 실행파일: `.exe`
+<img width="487" height="247" alt="image" src="https://github.com/user-attachments/assets/a755997a-7442-4b8f-bd98-b9e1a884aa8f" />
 
-파일 탐색기에서 각 파일의 위치를 검색하고 결과 화면을 첨부한다.
 
 
 # 실습과제 2
