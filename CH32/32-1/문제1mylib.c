@@ -7,9 +7,10 @@ int input() {
 	scanf("%d", &x);
 	return x;
 }
-double cal(int x) {
-	return 1.5 * SQUARE(x) - 3 * x + 0.7;
+int bigger(int a, int b) {
+	if (a > b)return a;
+	else return b;
 }
-void print(double y) {
-	printf("y = %lf", y);
+void print(int big) {
+	printf("더 큰수 %d", big);
 }
