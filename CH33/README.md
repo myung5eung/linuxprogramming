@@ -21,3 +21,4 @@
 <img width="847" height="392" alt="image" src="https://github.com/user-attachments/assets/238a4cdd-b1f4-4a0b-8dcc-5d2775a3282a" />
 
 # 실습과제3
+<img width="782" height="391" alt="image" src="https://github.com/user-attachments/assets/baf14d8a-2c4b-4c7b-8559-2214cf639624" />
