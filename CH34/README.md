@@ -10,6 +10,7 @@
 - Visual Studio에서는 MSBuild가 프로젝트의 빌드 설정을 읽고 컴파일과 링크 등의 빌드 과정을 자동으로 수행
 
 # 실습과제 2
+<img width="687" height="425" alt="image" src="https://github.com/user-attachments/assets/1f99d60b-c46b-4249-a3cb-073a8ccc7acc" />
 
 
 # 실습과제 3
