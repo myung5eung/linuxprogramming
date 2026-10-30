@@ -15,4 +15,5 @@
 
 # 실습과제 3
 
+<img width="707" height="412" alt="image" src="https://github.com/user-attachments/assets/e7f9fde7-0468-4441-b1b6-e8340c483e03" />
 
